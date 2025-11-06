@@ -1,0 +1,15 @@
+
+#navbarmenu{
+    max-height: 250px;
+}
+#center {
+    min-height: 700px;
+    background-color: rgb(209, 225, 248);
+}
+#center #centerform{
+    min-width: 450px;
+}
+
+#footer{
+    max-height: 70px;
+}
